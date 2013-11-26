@@ -1,7 +1,7 @@
 {
   "name": "particles-angular",
   "description": "Add AngularJS to your Particles application",
-  "version": "1.2.1",
+  "version": "0.1.0",
   "homepage": "https://github.com/particles/particles-angular",
   "author": {
     "name": "Mario Casciaro"
