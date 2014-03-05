@@ -1,11 +1,10 @@
+[![NPM version](https://badge.fury.io/js/particles-angular.png)](http://badge.fury.io/js/particles-angular) 
+[![Dependency Status](https://gemnasium.com/particles/particles-angular.png)](https://gemnasium.com/particles/particles-angular)
 
-#Synopsis
+# [particles](https://github.com/particles/particles)-angular
 
-Add AngularJS to your [Particles](https://github.com/particles) application
+> AngularJS client-side asset for Particles applications
 
-[![NPM](https://nodei.co/npm/particles-angular.png?downloads=true)](https://nodei.co/npm/particles-angular/)
+## License
 
------
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/particles/particles-angular/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
+[MIT](http://en.wikipedia.org/wiki/MIT_License) @ Mario Casciaro
